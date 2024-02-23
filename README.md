@@ -68,18 +68,19 @@ CIRCUIT DIAGRAM
 
 **PROGRAM** 
  
-
-
-
-
-
-
-
-
+![Screenshot 2024-02-23 154615](https://github.com/vasanthkumarch/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/150010919/0638fbeb-d450-4558-9caf-9accec3764f2)
 
 **
 **Simulation output:** 
 **
+Led ON:
+![Screenshot (17)](https://github.com/vasanthkumarch/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/150010919/d966ba9d-538a-4a0d-8747-ceb094617b09)
+Led OFF:
+![circiuit](https://github.com/vasanthkumarch/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/150010919/9bfdfe88-4ee9-4d56-ad6c-f6947a5b0a53)
+Diagram:
+![INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO](https://github.com/vasanthkumarch/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/150010919/8e0a5b87-b7ab-46c7-84e7-8dbab5c36e6c)
+
+
 
 
 [My image](username.github.com/repository/img/image.jpg)
